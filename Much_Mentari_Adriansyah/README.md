@@ -7,7 +7,7 @@
 ## DESKRIPSI TUGAS
 Program ini berisi:
 1. Visualisasi Operasi Set
-2. Word Count Komentar 
+2. Visualisasi *Word Count* Komentar 
 
 ## CARA MENJALANKAN PROGRAM
 1. Install library : pip install streamlit
